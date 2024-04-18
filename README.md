@@ -24,7 +24,7 @@ You can use the provided scripts and notebooks to train the Multi-View VAE on yo
 
 ## Results
 
-The trained Multi-View VAE can generate realistic images from both the MNIST and SVHN domains. Additionally, it learns meaningful latent representations that capture the underlying structure of the data. Visualizations such as t-SNE plots are provided to demonstrate the effectiveness of the learned representations.
+The trained Multi-View VAE learns meaningful latent representations that capture the underlying structure of the data. Visualizations such as t-SNE plots are provided to demonstrate the effectiveness of the learned representations.
 
 ## References
 
