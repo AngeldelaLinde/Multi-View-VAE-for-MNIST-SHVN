@@ -28,9 +28,7 @@ The trained Multi-View VAE learns meaningful latent representations that capture
 
 ## References
 
-- Kingma, D. P., & Welling, M. (2014). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.
-- Doersch, C. (2016). Tutorial on Variational Autoencoders. arXiv preprint arXiv:1606.05908.
-- Maaløe, L., Sønderby, S. K., Sønderby, C. K., & Winther, O. (2019). BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling. arXiv preprint arXiv:1902.02102.
+- Y. Xie et al., "Joint Deep Multi-View Learning for Image Clustering," in IEEE Transactions on Knowledge and Data Engineering, vol. 33, no. 11, pp. 3594-3606, 1 Nov. 2021
 
 ## Authors
 
